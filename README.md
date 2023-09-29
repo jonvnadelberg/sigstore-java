@@ -103,3 +103,10 @@ To build javadoc from the sources, use the following command:
 $ ./gradlew javadoc
 $ "my-favorite-browser" ./sigstore-java/build/docs/javadoc/index.html
 ```
+
+## Additional Documentation
+
+The following files contain additional information. If you make changes that affect these files, please edit the new information into them as needed:
+
+- **DEVELOPMENT.md**. Building and testing the Sigstore-java version.
+- **RELEASING.md**.  How to create a release of the Java version of Sigstore.
